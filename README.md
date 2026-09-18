@@ -1,6 +1,6 @@
 # 📝 Vanilla JavaScript To-Do List Uygulaması
 
-Bu proje; saf JavaScript (Vanilla JS), HTML5 ve CSS3 kullanılarak geliştirilmiş, kullanıcıların günlük görevlerini kolayca planlamasını ve takip etmesini sağlayan duyarlı (responsive) bir yapılacaklar listesi uygulamasıdır.
+Bu proje; saf JavaScript (Vanilla JS), HTML5 ve CSS3 kullanılarak geliştirilmiş, kullanıcıların günlük görevlerini kolayca planlamasını ve takip etmesini sağlayan  bir yapılacaklar listesi uygulamasıdır.
 
 ---
 
