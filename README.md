@@ -7,7 +7,9 @@ Bu proje; saf JavaScript (Vanilla JS), HTML5 ve CSS3 kullanılarak geliştirilmi
 ## 🎬 Proje Videosu
 
 <!-- Aşağıdaki boş satıra videonu bilgisayarından tutup sürükleyip bırakabilirsin -->
-<img width="800" height="430" alt="demo" src="https://github.com/user-attachments/assets/d78d78b4-db80-4d3d-920c-ff90ab695e52" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (753)" src="https://github.com/user-attachments/assets/2dcfbc0c-1d80-4a9e-a6af-2922d703a97a" />
+<img width="1920" height="1080" alt="Ekran Görüntüsü (752)" src="https://github.com/user-attachments/assets/367614ea-6e09-4697-91fc-91db4732eaa1" />
+
 
 
 
