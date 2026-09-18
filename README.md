@@ -17,11 +17,7 @@ Bu proje; saf JavaScript (Vanilla JS), HTML5 ve CSS3 kullanılarak geliştirilmi
 
 ## 🚀 Öne Çıkan Özellikler
 
-* **Görev Ekleme & Silme:** Kullanıcının dinamik olarak yeni görevler eklemesi ve tamamlanan/gereksiz görevleri listeden kaldırması.
-* **Görev Durumu Güncelleme:** Görevlerin tamamlandı olarak işaretlenebilmesi.
-* **Dinamik DOM Yönetimi:** Sayfa yenilenmeden listenin anlık olarak güncellenmesi.
-* **Kullanıcı Dostu Arayüz:** Temiz, şık ve mobil uyumlu (responsive) tasarım.
-
+* **Görev Ekleme & Silme:** Kullanıcının dinamik olarak yeni görevler eklemesi ve tamamlanan/gereksiz görevleri listeden kaldırması..
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
